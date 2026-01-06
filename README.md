@@ -160,6 +160,12 @@ Add this badge to your README to show your app is powered by Claude Code:
 
 ---
 
+## Opt-Out
+
+If you're a project maintainer and prefer not to be listed, [open an issue](https://github.com/dontoisme/awesome-powered-by-claude-code/issues) and we'll remove you within 24 hours. No questions asked.
+
+---
+
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
