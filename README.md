@@ -4,6 +4,8 @@
 
 > A curated list of apps designed to **run via Claude Code** as the runtime/interface.
 
+**Disclaimer:** This is a community-maintained list, not affiliated with or endorsed by Anthropic. "Claude" and "Claude Code" are trademarks of Anthropic, PBC.
+
 **This is NOT another list of tools FOR Claude Code.** This is a registry of apps that USE Claude Code as the engine — where Claude is the interface you interact with, and local data/services provide persistence.
 
 ---

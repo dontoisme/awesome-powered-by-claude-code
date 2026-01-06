@@ -2,6 +2,8 @@
 
 Custom badges for projects that run via Claude Code as the runtime.
 
+> **Note:** These are community-created badges, not official Anthropic assets. "Claude" and "Claude Code" are trademarks of Anthropic, PBC. This project is not affiliated with or endorsed by Anthropic.
+
 ---
 
 ## Custom SVG Badges (Recommended)

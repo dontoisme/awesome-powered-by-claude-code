@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Badge Preview</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            padding: 40px;
+            background: #f5f5f5;
+        }
+        .badge-row {
+            margin: 30px 0;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .badge-row.dark {
+            background: #1a1a2e;
+        }
+        h2 {
+            margin: 0 0 15px 0;
+            font-size: 14px;
+            color: #666;
+        }
+        .dark h2 {
+            color: #aaa;
+        }
+        img {
+            display: block;
+            margin: 10px 0;
+        }
+        code {
+            display: block;
+            margin-top: 10px;
+            padding: 10px;
+            background: #f0f0f0;
+            border-radius: 4px;
+            font-size: 11px;
+            overflow-x: auto;
+        }
+        .dark code {
+            background: #2a2a3e;
+            color: #ddd;
+        }
+    </style>
+</head>
+<body>
+    <h1>Powered by Claude Code - Badge Preview</h1>
+
+    <div class="badge-row">
+        <h2>Dark Style (Recommended) - on light background</h2>
+        <img src="powered-by-claude-code-dark.svg" alt="Dark badge">
+        <code>[![Powered by Claude Code](https://raw.githubusercontent.com/dontoisme/awesome-powered-by-claude-code/main/badges/powered-by-claude-code-dark.svg)](https://github.com/dontoisme/awesome-powered-by-claude-code)</code>
+    </div>
+
+    <div class="badge-row dark">
+        <h2>Dark Style - on dark background</h2>
+        <img src="powered-by-claude-code-dark.svg" alt="Dark badge on dark">
+    </div>
+
+    <div class="badge-row">
+        <h2>Purple Gradient Style</h2>
+        <img src="powered-by-claude-code-flat.svg" alt="Flat badge">
+        <code>[![Powered by Claude Code](https://raw.githubusercontent.com/dontoisme/awesome-powered-by-claude-code/main/badges/powered-by-claude-code-flat.svg)](https://github.com/dontoisme/awesome-powered-by-claude-code)</code>
+    </div>
+
+    <div class="badge-row">
+        <h2>Emoji Style</h2>
+        <img src="powered-by-claude-code.svg" alt="Emoji badge">
+        <code>[![Powered by Claude Code](https://raw.githubusercontent.com/dontoisme/awesome-powered-by-claude-code/main/badges/powered-by-claude-code.svg)](https://github.com/dontoisme/awesome-powered-by-claude-code)</code>
+    </div>
+
+    <div class="badge-row">
+        <h2>Shields.io Alternatives (for comparison)</h2>
+        <img src="https://img.shields.io/badge/Powered%20by-Claude%20Code-orange?logo=anthropic" alt="Shields orange">
+        <img src="https://img.shields.io/badge/Powered%20by-Claude%20Code-orange?style=for-the-badge&logo=anthropic" alt="Shields for-the-badge">
+        <img src="https://img.shields.io/badge/Powered%20by-Claude%20Code-1a1525?logo=anthropic&logoColor=D4956A" alt="Shields dark">
+    </div>
+</body>
+</html>
