@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="195" height="28" viewBox="0 0 195 28">
+  <defs>
+    <linearGradient id="bg-dark" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#2D2640"/>
+      <stop offset="100%" style="stop-color:#1A1525"/>
+    </linearGradient>
+  </defs>
+  <rect width="195" height="28" rx="4" fill="url(#bg-dark)"/>
+  <rect x="1" y="1" width="193" height="26" rx="3" fill="none" stroke="#D4956A" stroke-width="1" opacity="0.3"/>
+  <g transform="translate(10, 6)">
+    <!-- Anthropic triangle icon -->
+    <path d="M8 0L16 14H0L8 0Z" fill="#D4956A"/>
+  </g>
+  <text x="34" y="18" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#D4956A">powered by</text>
+  <text x="108" y="18" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="11" font-weight="700" fill="#ffffff">claude code</text>
+</svg>

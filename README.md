@@ -1,6 +1,6 @@
 # Awesome Powered by Claude Code
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 > A curated list of apps designed to **run via Claude Code** as the runtime/interface.
 
@@ -139,11 +139,19 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for submission guidelines.
 
 Add this badge to your README to show your app is powered by Claude Code:
 
+### Dark Style (Recommended)
+```markdown
+[![Powered by Claude Code](https://raw.githubusercontent.com/dontoisme/awesome-powered-by-claude-code/main/badges/powered-by-claude-code-dark.svg)](https://github.com/dontoisme/awesome-powered-by-claude-code)
+```
+
+[![Powered by Claude Code](https://raw.githubusercontent.com/dontoisme/awesome-powered-by-claude-code/main/badges/powered-by-claude-code-dark.svg)](https://github.com/dontoisme/awesome-powered-by-claude-code)
+
+### Shields.io Alternative
 ```markdown
 [![Powered by Claude Code](https://img.shields.io/badge/Powered%20by-Claude%20Code-orange?logo=anthropic)](https://github.com/dontoisme/awesome-powered-by-claude-code)
 ```
 
-[![Powered by Claude Code](https://img.shields.io/badge/Powered%20by-Claude%20Code-orange?logo=anthropic)](https://github.com/dontoisme/awesome-powered-by-claude-code)
+See [badges/](badges/) for more styles.
 
 ---
 
