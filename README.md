@@ -47,6 +47,7 @@ This is analogous to:
 | App | Stars | Description |
 |-----|-------|-------------|
 | [just-fucking-cancel](https://github.com/rohunvora/just-fucking-cancel) | ![Stars](https://img.shields.io/github/stars/rohunvora/just-fucking-cancel?style=flat) | Audits your subscriptions from bank CSV exports, helps you decide what to cancel, and optionally automates the cancellation via browser |
+| [zeroed](https://github.com/dontoisme/zeroed) | ![Stars](https://img.shields.io/github/stars/dontoisme/zeroed?style=flat) | YNAB-style zero-based budgeting with Python CLI + Next.js dashboard — Claude Code manages budget allocation via conversation while the dashboard reflects session state |
 | [Claude-Budget-Workspace-Template](https://github.com/danielrosehill/Claude-Budget-Workspace-Template) | ![Stars](https://img.shields.io/github/stars/danielrosehill/Claude-Budget-Workspace-Template?style=flat) | Household budget management with 6 specialized agents: Budget-Architect, Expense-Analyst, Goal-Tracker, Transaction-Processor, Report-Generator, Financial-Advisor |
 
 ## Productivity & Time
